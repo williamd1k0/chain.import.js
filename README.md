@@ -16,7 +16,7 @@ var myVar = "Hello World!";
     <head>
         <meta charset="utf-8">
         <title>ChainImport Example</title>
-        <script type="text/javascript" src="https://williamd1k0.github.io/cdn/chain.import.js"></script>
+        <script type="text/javascript" src="path/to/chain.import.js"></script>
         <script>
             ChainImport('myscript.js', function(){
                 alert(myVar);
